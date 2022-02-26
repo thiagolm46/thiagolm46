@@ -1,7 +1,7 @@
 ##
 <div aling="center">
 <h2>Hi there, I'm 
-<a href = "https://github.com/davidamurim7"> David Amurim</a> ! </h2>
+<a href = "https://github.com/thiagolm46"> Thiago Lima</a> ! </h2>
 <div align="center">
   <a href="https://github.com/thiagolm46">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolm46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
